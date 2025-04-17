@@ -2,6 +2,8 @@
 
 **Pretrained_Model_V_1:https://huggingface.co/wesfggfd/Pretrained-Birds-Classifier**
 
+**Current Best Score:0.61058**
+
 # BirdCLEF 2023 Audio Classification Pipeline
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)
