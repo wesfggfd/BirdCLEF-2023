@@ -2,7 +2,7 @@
 
 **Pretrained_Model_V_1:https://huggingface.co/wesfggfd/Pretrained-Birds-Classifier**
 
-- [wesfggf/BirdCLEF-2023/]
+- [kaggle]
 - [└── 📁 input/]
 -   [├── 📁 birdclef-2023-v1/](https://www.kaggle.com/competitions/birdclef-2023)             
 -    [│   ├── 📁 train_audio/]
@@ -15,17 +15,18 @@
 -    [│       └── 📁 variables/]             
 
 
-- [├── 📁 COMPETITIONS]
+- [├── 📁 kaggle/]
+- [└── 📁 input/]
 - [│   └── BirdCLEF 2023]
 - [│]
-- [├── 📁 DATASETS]
-- [│   └── bc2023-train-val-df](https://www.kaggle.com/datasets/nischaydnk/bc2023-train-val-df)         
-- [│       ├── train/]                  
-- [│       ├── val/]                   
+-     [├── 📁 DATASETS]
+-     [│   └── bc2023-train-val-df](https://www.kaggle.com/datasets/nischaydnk/bc2023-train-val-df)         
+-     [│       ├── train/]                  
+-     [│       ├── val/]                   
 - [│]
-- [├── 📁 NOTEBOOKS]
-- [│   ├── BirdCLEF23 Supervised Contrastive Loss Training.ipynb](https://www.kaggle.com/code/vijayravichander/birdclef23-supervised-contrastive-loss-training)
-- [│   └── Split & Creating MelSpecs [Stage 1].ipynb](https://www.kaggle.com/code/nischaydnk/split-creating-melspecs-stage-1)
+-     [├── 📁 NOTEBOOKS]
+-     [│   ├── BirdCLEF23 Supervised Contrastive Loss Training.ipynb](https://www.kaggle.com/code/vijayravichander/birdclef23-supervised-contrastive-loss-training)
+-     [│   └── Split & Creating MelSpecs [Stage 1].ipynb](https://www.kaggle.com/code/nischaydnk/split-creating-melspecs-stage-1)
 
 
 
