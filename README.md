@@ -27,7 +27,11 @@
      - [│   └── Split & Creating MelSpecs [Stage 1].ipynb] (https://www.kaggle.com/code/nischaydnk/split-creating-melspecs-stage-1)
 
 
-
+- [kaggle]
+- [└── 📁 input/]
+-   [├── 📁 birdclef-2023/](https://www.kaggle.com/competitions/birdclef-2023)
+- [├── 📁 DATASETS]
+     - [│   └── BirdCLEF2023-4th-models](https://www.kaggle.com/datasets/nischaydnk/bc2023-train-val-df)
 
 
 **V1 Best Score:0.61058**
