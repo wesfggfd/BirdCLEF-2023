@@ -23,7 +23,7 @@
      - [│       ├── train/]                  
      - [│       ├── val/]                   
      - [├── 📁 NOTEBOOKS]
-     - [│   ├── BirdCLEF23 Supervised Contrastive Loss Training.ipynb](https://www.kaggle.com/code/vijayravichander/birdclef23-supervised-contrastive-loss-training)
+     - [│   ├── BirdCLEF23 Supervised Contrastive Loss Training.ipynb](https://www.kaggle.com/code/vijayravichander/birdclef23-supervised-contrastive-loss-training) [theory explanation](https://github.com/wesfggfd/BirdCLEF23-Supervised-Contrastive-Loss-Training-explanation)
      - [│   └── Split & Creating MelSpecs [Stage 1].ipynb] (https://www.kaggle.com/code/nischaydnk/split-creating-melspecs-stage-1)
 
 
