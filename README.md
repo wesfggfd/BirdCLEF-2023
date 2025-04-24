@@ -2,7 +2,9 @@
 
 **Pretrained_Model_V_1:https://huggingface.co/wesfggfd/Pretrained-Birds-Classifier**
 
-**Current Best Score:0.61058**
+
+**V1 Best Score:0.61058**
+**V2 Best Score:0.61600**
 
 # BirdCLEF 2023 Audio Classification Pipeline
 
