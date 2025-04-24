@@ -4,12 +4,12 @@
 
 - [wesfggf/BirdCLEF-2023/]
 - [└── 📁 input/]
--   [├── 📁 birdclef-2023-v1/]             
+-   [├── 📁 birdclef-2023-v1/](https://www.kaggle.com/competitions/birdclef-2023)             
 -    [│   ├── 📁 train_audio/]
 -    [│     └──  📄 train_metadata.csv]        
 -    [│   └── 📁 test_soundscapes/]                
 -    [│]
--    [├── 📁 pretrained_models/]             
+-    [├── 📁 pretrained_models/](https://www.kaggle.com/models/google/bird-vocalization-classifier/TensorFlow2/bird-vocalization-classifier/1)             
 -    [│   └── 📄 v1_bird_vocalization_classifier/]       
 -    [│       └── 📁 assets/]       
 -    [│       └── 📁 variables/]             
@@ -19,7 +19,7 @@
 - [│   └── BirdCLEF 2023]
 - [│]
 - [├── 📁 DATASETS]
-- [│   └── bc2023-train-val-df]         
+- [│   └── bc2023-train-val-df](https://www.kaggle.com/datasets/nischaydnk/bc2023-train-val-df)         
 - [│       ├── train/]                  
 - [│       ├── val/]                   
 - [│]
