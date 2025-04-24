@@ -2,8 +2,25 @@
 
 **Pretrained_Model_V_1:https://huggingface.co/wesfggfd/Pretrained-Birds-Classifier**
 
+- [wesfggf/BirdCLEF-2023/]
+- [└── 📁 input/]
+-   [├── 📁 birdclef-2023-v1/]             
+-    [│   ├── 📁 train_audio/]
+-    [│     └──  📄 train_metadata.csv]        
+-    [│   └── 📁 test_soundscapes/]                
+-    [│]
+-    [├── 📁 pretrained_models/]             
+-    [│   └── 📄 v1_bird_vocalization_classifier/]       
+-    [│       └── 📁 assets/]       
+-    [│       └── 📁 variables/]             
+
+
+
+
+
 
 **V1 Best Score:0.61058**
+
 **V2 Best Score:0.61600**
 
 # BirdCLEF 2023 Audio Classification Pipeline
