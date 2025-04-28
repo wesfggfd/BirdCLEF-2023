@@ -1,3 +1,36 @@
+# Performance Improvements
+
+```bash
+Baseline → ResNet50 + Contrastive:
+
+Absolute gain: 0.61600 − 0.61058 = 0.00542
+
+Relative improvement: (0.00542 / 0.61058) × 100% ≈ 0.89%
+
+
+ResNet50 + Contrastive → NFNet-L0 Ensemble:
+
+Absolute gain: 0.75688 − 0.61600 = 0.14088
+
+Relative improvement: (0.14088 / 0.61600) × 100% ≈ 22.9%
+
+
+Baseline → NFNet-L0 Ensemble (Overall):
+
+Absolute gain: 0.75688 − 0.61058 = 0.14630
+
+Relative improvement: (0.14630 / 0.61058) × 100% ≈ 23.96%
+```
+
+
+
+
+
+
+
+
+
+
 **Dataset_V_1:https://huggingface.co/datasets/wesfggfd/BirdCLEF-2023**
 
 **Pretrained_Model_V_1:https://huggingface.co/wesfggfd/Pretrained-Birds-Classifier**
