@@ -1,14 +1,14 @@
 # Performance Improvements
 
 ```bash
-Baseline → ResNet50 + Contrastive:
+Baseline → Supervised Contrastive Learning:
 
 Absolute gain: 0.61600 − 0.61058 = 0.00542
 
 Relative improvement: (0.00542 / 0.61058) × 100% ≈ 0.89%
 
 
-ResNet50 + Contrastive → NFNet-L0 Ensemble:
+Supervised Contrastive Learning → NFNet-L0 Ensemble:
 
 Absolute gain: 0.75688 − 0.61600 = 0.14088
 
