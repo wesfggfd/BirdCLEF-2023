@@ -1,6 +1,6 @@
 # Performance Improvements
 
-```bash 
+```bash  
 Baseline → Supervised Contrastive Learning:
 
 Absolute gain: 0.61600 − 0.61058 = 0.00542
